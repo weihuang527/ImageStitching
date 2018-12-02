@@ -1,0 +1,11 @@
+#define TOTAL_IMAGES 18
+#define SHRINK_RATIO 1
+#define FOCAL_LENGTH 784.34    //576.09//1152.18//2304.36  //1152.18    //1145.87(set5)  //572.935  //704.5, 784.34(parrington)
+#define ALPHA 0.04
+#define THRESHOLD 80000000000.0    //450000000000.0   //800000000000.0 //35000000000.0
+#define FILE_FOLDER "parrington"
+#define OUT_FILE "parrington_2.jpg"
+#define SHOWFEATURE true
+#define SHOWLINE true
+#define SHOWCYLIN true
+#define SHOWSTITCH true

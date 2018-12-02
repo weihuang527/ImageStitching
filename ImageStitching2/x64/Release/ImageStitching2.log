@@ -1,0 +1,31 @@
+﻿  main.cpp
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(103): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(152): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(273): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(273): note: 请考虑在格式字符串中使用“%zd”
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(274): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(274): note: 请考虑在格式字符串中使用“%zd”
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(396): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(397): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(410): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(411): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(417): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(418): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(442): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(650): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(654): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(665): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(666): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(676): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(677): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(678): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(701): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(705): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(715): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\course\图像理解\homework\project2\imagestitching2\imagestitching2\main.cpp(716): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 959 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ImageStitching2.vcxproj -> F:\course\图像理解\homework\project2\ImageStitching2\x64\Release\ImageStitching2.exe
